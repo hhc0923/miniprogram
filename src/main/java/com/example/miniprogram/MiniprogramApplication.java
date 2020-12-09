@@ -8,6 +8,7 @@ public class MiniprogramApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MiniprogramApplication.class, args);
+        System.out.println("嘿嘿");
     }
 
 }
